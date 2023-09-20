@@ -168,7 +168,7 @@ text-transform: uppercase;
 .fours{
     background-color: #fff;
 }
-.fours-list .Portfolio-name{
+.fours-list .portfolio-name{
     color: var(--NAVY-BLUE, #2E2F42);    
     line-height: 1.2;
     font-family: "Roboto", sans-serif;
@@ -177,7 +177,7 @@ text-transform: uppercase;
     font-weight: 500;
     letter-spacing: 0.4px;  
 }
-.fours-list .Portfolio-text{
+.fours-list .portfolio-text{
     color: var(--SLATE, #434455);
     font-family: "Roboto", sans-serif;
     font-size: 16px;
